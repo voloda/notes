@@ -1,5 +1,6 @@
 site_name: Design docs
 site_url: https://example.com/
+repo_url: https://github.com/voloda/notes
 nav:
     - DO NextGen: do/index.md
 plugins:
