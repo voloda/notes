@@ -10,8 +10,10 @@ theme:
   name: material
 
 nav:
-    - Root: index.md
-      - DO NextGen: do/index.md
+    - Home: index.md
+    - DO:
+      - Home: do/index.md
+      - Child:
         - Child: do/child/index.md
 
   
