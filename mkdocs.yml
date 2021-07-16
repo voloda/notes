@@ -2,4 +2,7 @@ site_name: Design docs
 site_url: https://example.com/
 nav:
     - DO NextGen: do/index.md
+plugins:
+    - search
+    - mermaid2
 
